@@ -3,25 +3,25 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285810425814', 'LeonGanz', true],
-  //['6285608625102']
+  ['6281290217122', 'Slamet ssi', true],
+  //['6281290217122']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6285608625102'] // Premium user has unlimited limit
+global.prems = ['6281290217122'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'MIMINETBOT'
+  // 'https://website': 'e83c465426cd4705'
+  'https://api.xteam.xyz': 'Anims'
 }
 
 // Sticker WM
 global.packname = ''
-global.author = 'Whatsapp Bot By Rama Agung'
+global.author = 'Whatsapp Bot By Slmaet ssi'
 
 global.multiplier = 69 // The higher, The harder levelup
 
